@@ -1,5 +1,5 @@
 # funQUIZ-GAME
-java script advance concept
-*its advanced topic of java script ,i made game with the help oh this like cloure , function , object also IIFE concept.
+* java script advance concept
+* its advanced topic of java script ,i made game with the help oh this like cloure , function , object also IIFE concept.
 * also used prototype chain
-*we load two scripts sequentially: used callback()
+* we load two scripts sequentially: used callback()
